@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Movaghari\\Source\\Visual Studio\\Guess-Numbers\\Guess-Numbers.csproj": {}
+  },
+  "projects": {
+    "D:\\Movaghari\\Source\\Visual Studio\\Guess-Numbers\\Guess-Numbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Movaghari\\Source\\Visual Studio\\Guess-Numbers\\Guess-Numbers.csproj",
+        "projectName": "Guess-Numbers",
+        "projectPath": "D:\\Movaghari\\Source\\Visual Studio\\Guess-Numbers\\Guess-Numbers.csproj",
+        "packagesPath": "C:\\Users\\hmovaghari\\.nuget\\packages\\",
+        "outputPath": "D:\\Movaghari\\Source\\Visual Studio\\Guess-Numbers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hmovaghari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
